@@ -25,5 +25,5 @@
 
 ## 📬 ¿Charlamos?
 
-* 💼 [Mi LinkedIn](TU_ENLACE_A_LINKEDIN_AQUÍ)
-* ✉️ LScala33 (o tu correo electrónico preferido)
+* 💼 [Mi LinkedIn](linkedin.com/in/lorena-scala)
+* ✉️ LScala33 (lorenascala33@gmail.com)
