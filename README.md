@@ -14,7 +14,7 @@ Uniendo el mundo del software de gestión con la realidad financiera y operativa
 
 ## 🛠️ Stack & Herramientas
 
-Aquí agrupó las tecnologías y entornos con los que interactúo en mi día a día:
+Aquí agrupo las tecnologías y entornos con los que interactúo en mi día a día:
 
 ### 💼 ERP & Gestión Organizacional
 ![Odoo](https://img.shields.io/badge/Odoo-8F548F?style=for-the-badge&logo=odoo&logoColor=white)
